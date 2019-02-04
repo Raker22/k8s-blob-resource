@@ -1,0 +1,7 @@
+apiVersion: raker22.com/v1alpha1
+kind: Blob
+metadata:
+  name: example-blob
+spec:
+  message: hello world
+  someValue: 42
